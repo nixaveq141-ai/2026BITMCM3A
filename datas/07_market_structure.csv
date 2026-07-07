@@ -1,0 +1,16 @@
+country_region,total_gdp_billion_usd_2024,gdp_rank_global,media_broadcast_market_maturity,competition_level,num_major_bidders,world_cup_participation_frequency_last5,historical_wc_viewing_growth_trend
+United_States,29180,1,Mature,High,4,100%_(missed_2018),Strong_Growth
+United_Kingdom,3640,6,Mature,High,3,83%_(missed_1994),Stable
+Japan,4200,4,Mature,Medium,3,100%,Stable
+South_Korea,1870,13,Mature,Medium,2,83%_(missed_2014),Growing
+Germany,4680,3,Mature,High,3,100%_(missed_none_recent),Declining_2022
+Brazil,2170,11,Growing,High,3,100%,Strong_Growth
+Australia,1830,14,Mature,Low,1,100%,Growing
+Vietnam,475,35,Emerging,Low,1,0%_(never),Growing
+Hong_Kong,400,40,Mature,Low,2,0%_(never),Stable
+China,18270,2,Growing,Medium,2,20%_(only_2002),Stable
+India,3930,5,Emerging,Low,2,0%_(never),Growing
+Malaysia,450,37,Emerging,Low,1,0%_(never),Stable
+Thailand,545,30,Emerging,Low,1,0%_(never),Stable
+France,3080,7,Mature,Medium,3,83%,Strong_Growth
+Spain,1650,15,Mature,Medium,3,100%,Stable
